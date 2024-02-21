@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kkatwe07
+- 👋 Hi, I’m Kishan Katwe
 - 👀 I’m interested in Game Development with Unity Engine.
-- 🌱 I’m currently learning MCA in Game Development with Jain(Deemed-to-be-University).
+- 🌱 I’m currently working as an Associcate Software Engineer at Longbow Games Pvt Ltd.
 - 📫 How to reach me:-Linkedin : https://www.linkedin.com/in/kk7-02/
 
 <!---
