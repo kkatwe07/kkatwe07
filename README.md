@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kishan Katwe
-- 👀 I’m interested in Game Development with Unity Engine.
+- 👋 Hi, I’m Kishan Katwe, a Game programmer with over 1 year of experience.
+- 👀 I’m interested in Game Development with Unity Engine and C#.
 - 🌱 I’m currently working as an Associcate Software Engineer at Longbow Games Pvt Ltd.
 - 📫 How to reach me:-Linkedin : https://www.linkedin.com/in/kk7-02/
 
